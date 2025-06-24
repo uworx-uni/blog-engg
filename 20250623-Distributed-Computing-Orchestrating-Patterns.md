@@ -355,5 +355,3 @@ Ensure messages are reliably published by saving them to the database within the
 * Use CDC (Change Data Capture) tools like Debezium to publish from DB logs.
 
 ---
-
-Let me know if you want example code snippets or RabbitMQ configurations added to any of them.
